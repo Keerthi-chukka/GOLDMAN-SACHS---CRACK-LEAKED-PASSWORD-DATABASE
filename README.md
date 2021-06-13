@@ -112,10 +112,15 @@ johnwick007:f6a0cb102c62879d397b12b62c092c06 - bluered
 # Resources
 
 https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/
+
 https://howsecureismypassword.net/
+
 https://en.wikipedia.org/wiki/Password_cracking#Software
+
 https://en.wikipedia.org/wiki/Salt_(cryptography)
+
 https://hashcat.com
+
 https://dzone.com/articles/crack-hashed-passwords-with-hashcat
 
   
