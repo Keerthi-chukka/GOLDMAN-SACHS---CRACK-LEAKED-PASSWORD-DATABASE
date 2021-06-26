@@ -127,6 +127,10 @@ https://hashcat.com
 
 https://dzone.com/articles/crack-hashed-passwords-with-hashcat
 
+<code>
+    git commit --allow-empty
+</code>
+
 
   
      
