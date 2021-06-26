@@ -127,6 +127,8 @@ https://hashcat.com
 
 https://dzone.com/articles/crack-hashed-passwords-with-hashcat
 
+git reset HEAD~2
+
   
      
 
